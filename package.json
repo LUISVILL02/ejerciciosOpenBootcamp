@@ -1,0 +1,23 @@
+{
+  "name": "ejerciciosob",
+  "version": "1.0.0",
+  "description": "aqui hare los ejercicios del curso de js",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUISVILL02/ejerciciosOpenBootcamp.git"
+  },
+  "keywords": [
+    "luisvillam2"
+  ],
+  "author": "luisvill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUISVILL02/ejerciciosOpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/LUISVILL02/ejerciciosOpenBootcamp#readme"
+}
