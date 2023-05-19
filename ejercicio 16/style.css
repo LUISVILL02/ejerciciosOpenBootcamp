@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: darkslateblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    border: 2px solid #ffffff;
+    width: 500px;
+    height: 340px;
+    padding: 5px;
+    position: relative;
+}
+.seccion{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: gray;
+    border-radius: 5px;
+}
+.parrafo{
+    background: white;
+    padding: 0.4rem;
+    margin: 9px;
+    border-radius: 8px;
+}
+.parrafo:hover{
+    background: rgb(201, 196, 196);
+    cursor: pointer;
+}
+.draging{
+    opacity: 50%;
+}
+img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 4px;
+    right: 50%;
+}
